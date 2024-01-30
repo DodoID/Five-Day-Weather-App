@@ -35,4 +35,4 @@ Daniel D (AKA DODO) & Google Search
 ## License
 MIT License 
 
-Copyright (c) [2024] [<Daniel D>]
+Copyright (c) [2024] [Daniel D]
