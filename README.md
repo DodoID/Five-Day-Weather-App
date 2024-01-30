@@ -14,7 +14,7 @@ License
 ## Project Description
 This project is a 5 day waether web application, 
 
-## Link to Deployed Application: 
+## Link to Deployed Application: https://dodoid.github.io/Five-Day-Weather-App/
 
 ## Overview
 Using jQuery to dynamically update weather data based on search imput, data imputed as city, converted to coordinates and retereived from OpenWeatherMap API.
