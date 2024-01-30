@@ -21,7 +21,7 @@ Using jQuery to dynamically update weather data based on search imput, data impu
 Also using moment.js to display the date and time.
 
 
-![Alt text](assets/images/Screenshot_2024-01-30.png) 
+![Printscreen](assets/images/Screenshot_2024-01-30.png)
 
 ## Installation
 No installation is required.
