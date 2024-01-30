@@ -42,7 +42,7 @@ $(function() {
       }
 
       
-    // Build geocoding URL for the current day and retrieve longitude and latitude
+    // Build geocoding URL for the current day and retrieve longitude and latitude for the current day.
     const geocodingURL = `https://api.openweathermap.org/geo/1.0/direct?q=${userInput},GB&appid=${API}`
 
     // Fetch longitude and latitude
