@@ -1,0 +1,14 @@
+/* General */
+* {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary: rgb(156, 0, 122);
+    --secondary: rgb(0, 70, 110);
+    --accent: rgb(54, 161, 233);
+    --dark: rgb(12, 12, 12);
+    --light: rgb(245, 245, 245);
+  }
+
+  
