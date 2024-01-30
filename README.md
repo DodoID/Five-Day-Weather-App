@@ -21,7 +21,7 @@ Using jQuery to dynamically update weather data based on search imput, data impu
 Also using moment.js to display the date and time.
 
 
-![Printscreen](assets/images/Screenshot_2024-01-30.png)
+![Printscreen](https://github.com/DodoID/Five-Day-Weather-App/blob/main/Assets/images/Screenshot_2024-01-30.png)
 
 ## Installation
 No installation is required.
@@ -35,4 +35,4 @@ Daniel D (AKA DODO) & Google Search
 ## License
 MIT License 
 
-Copyright (c) [2024] [<Daniel D>]
+Copyright (c) [2024] [Daniel D AKA Dodo]
