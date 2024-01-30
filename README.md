@@ -21,16 +21,16 @@ Using jQuery to dynamically update weather data based on search imput, data impu
 Also using moment.js to display the date and time.
 
 
-![Alt text](assets/images/Screenshot%202024-01-30%20230929.png) 
+![Alt text](assets/images/Screenshot_2024-01-30.png) 
 
 ## Installation
 No installation is required.
 
 ## Usage
-The user can add tasks to the schedule by typing in the task and clicking the save button. The user can also delete tasks from the schedule by clicking the delete button. The user can also clear the schedule by clicking the clear button.
+The user can type in a city from the UK and get weather data, ex: London, the Search will rememeber searc imputs and store them locally.
 
 ## Credits
-Daniel D
+Daniel D (AKA DODO) & Google Search
 
 ## License
 MIT License 
