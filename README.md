@@ -1,9 +1,9 @@
 # Five-Day-Weather-App
-A five day weather app, Java scripted
+A five-day weather app, Java scripted
 
 ## Table of Contents
 Project description
-Link to deployed application
+Link to the deployed application
 Overview 
 Installation
 Usage
@@ -12,12 +12,12 @@ License
 
 
 ## Project Description
-This project is a 5 day waether web application, 
+This project is a 5-day weather web application, 
 
 ## Link to Deployed Application: https://dodoid.github.io/Five-Day-Weather-App/
 
 ## Overview
-Using jQuery to dynamically update weather data based on search imput, data imputed as city, converted to coordinates and retereived from OpenWeatherMap API.
+Using jQuery to dynamically update weather data based on search input, data imputed as a city, converted to coordinates and retrieved from OpenWeatherMap API.
 Also using moment.js to display the date and time.
 
 
@@ -27,7 +27,7 @@ Also using moment.js to display the date and time.
 No installation is required.
 
 ## Usage
-The user can type in a city from the UK and get weather data, ex: London, the Search will rememeber searc imputs and store them locally.
+The user can type in a city from the UK and get weather data, ex: London, the Search will remember search imputs and store them locally.
 
 ## Credits
 Daniel D (AKA DODO) & Google Search
